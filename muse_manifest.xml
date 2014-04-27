@@ -1,10 +1,10 @@
 <manifest alg="2" build="329" opt="true" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="484634295"/>
+    <file name="index.css" crc="192022671" ref="index"/>
     <file name="digital.css" crc="4049444282" ref="digital"/>
     <file name="print.css" crc="90423503" ref="print"/>
     <file name="web.css" crc="4170830665" ref="web"/>
-    <file name="index.css" crc="4117714402" ref="index"/>
   </folder>
   <folder name="assets">
     <folder name="bengraff">
@@ -37,9 +37,6 @@
     <file name="musewpslideshow.js" crc="138381373" ref="index:print:digital"/>
     <file name="jquery.museoverlay.js" crc="4250894771" ref="index:print:digital"/>
     <file name="touchswipe.js" crc="4156838003" ref="index:print:digital"/>
-    <file name="form_check.php" crc="3931498385" ref="index"/>
-    <file name="form_throttle.php" crc="4211444717" ref="index"/>
-    <file name="form-u3228.php" crc="4111675363" ref="index"/>
     <file name="jquery.watch.js" crc="4068933136" ref="index:print:web:digital"/>
   </folder>
   <folder name="images">
@@ -75,70 +72,66 @@
     <file name="u2777_states-r.png" crc="505810493" ref="index"/>
     <file name="u2779_states.png" crc="528973435" ref="index"/>
     <file name="u2779_states-r.png" crc="4067376405" ref="index"/>
-    <file name="flogo.png" crc="87450442" ref="index"/>
-    <file name="_dsc0005b143x94.jpg" crc="19520572" ref="index"/>
-    <file name="_dsc0059143x216.jpg" crc="4157659366" ref="index"/>
-    <file name="_dsc0199143x91.jpg" crc="454092225" ref="index"/>
-    <file name="_dsc0335143x95.jpg" crc="4251042870" ref="index"/>
-    <file name="_dsc0370143x95.jpg" crc="336949135" ref="index"/>
-    <file name="_dsc0448143x216.jpg" crc="259468911" ref="index"/>
-    <file name="_dsc0455143x95.jpg" crc="4217112357" ref="index"/>
-    <file name="_dsc0583143x213.jpg" crc="3782618659" ref="index"/>
-    <file name="_dsc0603143x95.jpg" crc="460554056" ref="index"/>
-    <file name="_dsc0802143x95.jpg" crc="3822184429" ref="index"/>
-    <file name="_dsc0823143x281.jpg" crc="92583336" ref="index"/>
-    <file name="_dsc0843143x95.jpg" crc="500887171" ref="index"/>
-    <file name="_dsc1124143x94.jpg" crc="4275032189" ref="index"/>
-    <file name="_dsc1155143x216.jpg" crc="4156836826" ref="index"/>
-    <file name="_dsc1220143x107.jpg" crc="63109953" ref="index"/>
-    <file name="415181_3409019355672_820663861_o143x88.jpg" crc="4068776271" ref="index"/>
-    <file name="415747_3054527413595_1714522992_o143x94.jpg" crc="536785084" ref="index"/>
-    <file name="858809_4974615734603_265349376_o143x93.jpg" crc="4014332324" ref="index"/>
-    <file name="dsc_0035143x95.jpg" crc="4237297188" ref="index"/>
-    <file name="dsc_0061143x110.jpg" crc="144738402" ref="index"/>
-    <file name="dsc_0312143x88.jpg" crc="4242770358" ref="index"/>
-    <file name="dsc_0415143x95.jpg" crc="3910610299" ref="index"/>
-    <file name="dsc_0565143x95.jpg" crc="61620134" ref="index"/>
-    <file name="dsc_0653143x94.jpg" crc="94934285" ref="index"/>
-    <file name="dsc_1002143x95.jpg" crc="4257310607" ref="index"/>
-    <file name="_dsc0005b.jpg" crc="370675672" ref="index"/>
-    <file name="_dsc0059.jpg" crc="3968173108" ref="index"/>
-    <file name="_dsc0199.jpg" crc="128654790" ref="index"/>
-    <file name="_dsc0335.jpg" crc="473146961" ref="index"/>
-    <file name="_dsc0370.jpg" crc="439043496" ref="index"/>
-    <file name="_dsc0448.jpg" crc="4249813259" ref="index"/>
-    <file name="_dsc0455.jpg" crc="4137310460" ref="index"/>
-    <file name="_dsc0583.jpg" crc="303534175" ref="index"/>
-    <file name="_dsc0603.jpg" crc="388931993" ref="index"/>
-    <file name="_dsc0802.jpg" crc="3857020206" ref="index"/>
-    <file name="_dsc0823.jpg" crc="4218692927" ref="index"/>
-    <file name="_dsc0843.jpg" crc="495436668" ref="index"/>
-    <file name="_dsc1124.jpg" crc="3779647990" ref="index"/>
-    <file name="_dsc1155.jpg" crc="48239863" ref="index"/>
-    <file name="_dsc1220.jpg" crc="3820603515" ref="index"/>
-    <file name="415181_3409019355672_820663861_o.jpg" crc="3901768704" ref="index"/>
-    <file name="415747_3054527413595_1714522992_o.jpg" crc="293536505" ref="index"/>
-    <file name="858809_4974615734603_265349376_o.jpg" crc="3970168635" ref="index"/>
-    <file name="dsc_0035.jpg" crc="527956003" ref="index"/>
-    <file name="dsc_0061.jpg" crc="4120520710" ref="index"/>
-    <file name="dsc_0312.jpg" crc="3876434353" ref="index"/>
-    <file name="dsc_0415.jpg" crc="348114037" ref="index"/>
-    <file name="dsc_0565.jpg" crc="3991981027" ref="index"/>
-    <file name="dsc_0653.jpg" crc="3856922305" ref="index"/>
-    <file name="dsc_1002.jpg" crc="40923545" ref="index"/>
-    <file name="u5093-4.png" crc="355012834" ref="index"/>
-    <file name="u5113-4.png" crc="3848865296" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index:print:digital"/>
     <file name="u3225_states.png" crc="3775001650" ref="index"/>
     <file name="u3225_states-r.png" crc="3775001650" ref="index"/>
     <file name="u3226_states.png" crc="3997944869" ref="index"/>
     <file name="u3226_states-r.png" crc="3997944869" ref="index"/>
     <file name="u3227.png" crc="4011131231" ref="index"/>
     <file name="u3227-r.png" crc="4011131231" ref="index"/>
-    <file name="u3260-17.png" crc="429848938" ref="index"/>
-    <file name="u3260-17-r.png" crc="4086013642" ref="index"/>
-    <file name="u3260-17-m.png" crc="4065591789" ref="index"/>
-    <file name="u3260-17-fs.png" crc="4003095471" ref="index"/>
+    <file name="flogo.png" crc="87450442" ref="index"/>
+    <file name="1143x88.jpg" crc="4286541881" ref="index"/>
+    <file name="2143x110.jpg" crc="446041128" ref="index"/>
+    <file name="3143x95.jpg" crc="4138387092" ref="index"/>
+    <file name="4143x93.jpg" crc="134084602" ref="index"/>
+    <file name="5143x94.jpg" crc="4055845731" ref="index"/>
+    <file name="6143x88.jpg" crc="4239556794" ref="index"/>
+    <file name="7143x107.jpg" crc="497178465" ref="index"/>
+    <file name="8143x216.jpg" crc="3815487548" ref="index"/>
+    <file name="9143x94.jpg" crc="49223336" ref="index"/>
+    <file name="10143x95.jpg" crc="153519320" ref="index"/>
+    <file name="11143x281.jpg" crc="3913207924" ref="index"/>
+    <file name="12143x95.jpg" crc="1543260" ref="index"/>
+    <file name="13143x95.jpg" crc="117538761" ref="index"/>
+    <file name="14143x213.jpg" crc="188088361" ref="index"/>
+    <file name="15143x95.jpg" crc="4261037134" ref="index"/>
+    <file name="16143x216.jpg" crc="3904434954" ref="index"/>
+    <file name="17143x95.jpg" crc="485591883" ref="index"/>
+    <file name="18143x95.jpg" crc="123846696" ref="index"/>
+    <file name="19143x91.jpg" crc="454728760" ref="index"/>
+    <file name="20143x216.jpg" crc="3891001000" ref="index"/>
+    <file name="21143x94.jpg" crc="4035745010" ref="index"/>
+    <file name="22143x95.jpg" crc="370976376" ref="index"/>
+    <file name="23143x94.jpg" crc="3911573283" ref="index"/>
+    <file name="24143x95.jpg" crc="3933716430" ref="index"/>
+    <file name="25143x95.jpg" crc="4134267952" ref="index"/>
+    <file name="1.jpg" crc="4099416581" ref="index"/>
+    <file name="2.jpg" crc="230777931" ref="index"/>
+    <file name="3.jpg" crc="4183326047" ref="index"/>
+    <file name="4.jpg" crc="4119650821" ref="index"/>
+    <file name="5.jpg" crc="43608193" ref="index"/>
+    <file name="6.jpg" crc="4226102222" ref="index"/>
+    <file name="7.jpg" crc="4132850267" ref="index"/>
+    <file name="8.jpg" crc="383871524" ref="index"/>
+    <file name="9.jpg" crc="3931015311" ref="index"/>
+    <file name="10.jpg" crc="4137092527" ref="index"/>
+    <file name="11.jpg" crc="3851694997" ref="index"/>
+    <file name="12.jpg" crc="3943578414" ref="index"/>
+    <file name="13.jpg" crc="153885292" ref="index"/>
+    <file name="14.jpg" crc="435906805" ref="index"/>
+    <file name="15.jpg" crc="397492387" ref="index"/>
+    <file name="16.jpg" crc="367691794" ref="index"/>
+    <file name="17.jpg" crc="389049229" ref="index"/>
+    <file name="18.jpg" crc="48265910" ref="index"/>
+    <file name="19.jpg" crc="4062785570" ref="index"/>
+    <file name="20.jpg" crc="416037292" ref="index"/>
+    <file name="21.jpg" crc="3857449314" ref="index"/>
+    <file name="22.jpg" crc="3994777665" ref="index"/>
+    <file name="23.jpg" crc="4012345427" ref="index"/>
+    <file name="24.jpg" crc="41518302" ref="index"/>
+    <file name="25.jpg" crc="3991815602" ref="index"/>
+    <file name="u5093-4.png" crc="355012834" ref="index"/>
+    <file name="u5113-4.png" crc="3848865296" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:print:digital"/>
     <file name="u4773_states.png" crc="431009498" ref="index"/>
     <file name="u4773_states-r.png" crc="431009498" ref="index"/>
     <file name="u4773_states-a.png" crc="431009498" ref="index"/>
@@ -235,7 +228,7 @@
     <file name="tv.png" crc="3762002379" ref="digital"/>
     <file name="u6115-4.png" crc="355012834" ref="digital"/>
   </folder>
-  <file name="index.html" crc="334335350" mt="1397898541292" redirect="true"/>
+  <file name="index.html" crc="3988205135" mt="1398609617252" redirect="true"/>
   <file name="print.html" crc="4110621843" mt="1390345276032" redirect="true"/>
   <file name="web.html" crc="3822547194" mt="1390347558264" redirect="true"/>
   <file name="digital.html" crc="3850912183" mt="1390347307843" redirect="true"/>
